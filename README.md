@@ -7,7 +7,7 @@
 <p><a href="https://github.com/kavindu-dilshan"><img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,firebase,vscode,github" width=350></a></p>
 
 This repository contains the source code for a Real Estate Marketplace web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The project utilizes Vite as the local development server.<br>
-### Live App: <a href="https://serendib-estates.onrender.com/">www.serendib-estates.onrender.com</a><br><br>
+### Live App: <a href="luxury-estates-737v.vercel.app/">luxury-estates-737v.vercel.app</a><br><br>
 <img src="https://firebasestorage.googleapis.com/v0/b/images-for-projects.appspot.com/o/Serendib%20Estates%2FScreenshots%2FHome.jpg?alt=media&token=524d5818-88d3-4c14-92f8-5e4c44af4d39" alt="Home">
 
 ## Table of Contents
