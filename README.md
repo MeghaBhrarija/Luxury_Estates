@@ -1,7 +1,7 @@
 # Luxury-Estates
 
 <h1>
-  <a href="https://serendib-estates.onrender.com/"><p>Serendib Estates</p></a>
+  <a href="luxury-estates-737v.vercel.app"><p>Luxury Estates</p></a>
 </h1>
 
 <p><a href="https://github.com/kavindu-dilshan"><img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,firebase,vscode,github" width=350></a></p>
@@ -26,15 +26,15 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kavindu-dilshan/serendib-estates.git
+git clone https://github.com/MeghaBhrarija/Luxury_Estates
 ```
 
 2. Install dependencies for the frontend and backend:
 ```bash
-cd serendib-estates/client
+cd Luxury_estates/client
 npm install
 
-cd serendib-estates
+cd Luxury_Estates
 npm install
 ```
 
@@ -44,10 +44,10 @@ npm install
 
 4. Run the development server:
 ```bash
-cd serendib-estates/client
+cd Luxury_estates/client
 npm run dev
 
-cd serendib-estates
+cd Luxury_estates
 npm run dev
 ```
 <br>
@@ -79,7 +79,7 @@ The application uses Redux Toolkit and Redux Persist for efficient state managem
 User authentication is implemented using JWT tokens, and Google OAuth is integrated for a seamless login experience.<br>
 
 ## Deployment
-The application is deployed on the Render platform. Visit <a href="https://serendib-estates.onrender.com/">here</a> to access the live application.<br>
+The application is deployed on the Render platform. Visit <a href="https://github.com/MeghaBhrarija/Luxury_Estates/">here</a> to access the live application.<br>
 
 ## License
 This project is licensed under the <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>.
