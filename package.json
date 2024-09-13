@@ -5,10 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon api/index.js",
-    "start": "node api/index.js",
-    "build": "npm install && npm install --prefix client && npm run build --prefix client && --output public"
-  },
+  "dev": "nodemon api/index.js",
+  "start": "node api/index.js",
+  "build": "npm install && npm install --prefix client && npm run build --prefix client",
+  "vercel-build": "npm run build --prefix client && mv client/dist public" 
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
